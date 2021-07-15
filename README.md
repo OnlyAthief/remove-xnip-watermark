@@ -1,3 +1,10 @@
+> 其实原理就是写一段python脚本，处理剪贴板中的图片(删除顶部)
+> 
+> 所以步骤是，先用xnip截图，保存在剪贴板，然后运行 这个 workflow， 不能运行多次，运行完后就可以从剪贴板拷贝出来了
+> 
+> 测试结果是，要先手动安装python脚本的依赖项,就是requirements.txt那个东东
+> 
+
 # Remove Xnip Watermark Alfred Workflow
 
 ![Demo](demo.gif?raw=true)
